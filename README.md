@@ -1,2 +1,5 @@
 # erc-swift
-![alt text](https://github.com/Takashi-Kamata/erc-swift/blob/master/erc.jpeg?raw=true)
+
+## Developed to unlock TOYOTA factory navigation system ERC
+<br>
+<img src="https://github.com/Takashi-Kamata/erc-swift/blob/master/erc.jpeg" width="300">
